@@ -1,0 +1,27 @@
+﻿.searchSidebar{
+    padding:6px 10px;
+    background:rgba(50, 50, 50, 0.2);
+    border:0px solid #dbdbdb;
+    width: 60%;
+    display: inline-block;
+    font-size: 12px;
+}
+.searchSidebarButton{
+    position: relative;
+    padding: 6px 10px;
+    left: -8px;
+    border: none;
+    background: #006F93;
+    color: #fafafa;
+    display: inline-block;
+    width: 30%;
+    font-size: 12px;
+    transition: all 0.15s ease-out;
+}
+.searchSidebarButton:hover{
+    transition: all 0.15s ease-in;
+    font-weight: bold;
+
+    background: #00B1EC;
+    color: #232323;
+}

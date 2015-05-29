@@ -1,0 +1,39 @@
+﻿body, html, form{
+    margin:0;
+    padding: 0;
+    height: 100%;
+
+    background: #F1F1F1;
+}
+
+::selection {
+  background: #006F93; 
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6, article, p, footer, header, nav, li, ul{
+    font-family: 'Lato', sans-serif;
+} 
+
+#wrappedContainer{
+    max-width: 1100px;
+    min-width: 800px;
+    min-height: 100%;
+    margin: 0 auto ;
+}
+
+#content{
+    float: left;
+    width: 60%;
+    padding-bottom: 30px;
+    margin: 0 0 0 4%;
+    display: inline;
+}
+
+#sidebar{
+    float: right;
+    width: 30%;
+    padding: 20px 0px;
+    margin: 0 3% 0 0;
+    display: inline;
+}

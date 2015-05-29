@@ -1,0 +1,25 @@
+﻿.splash {
+    height: 350px;
+    background: url('https://ununsplash.imgix.net/uploads/1411115362846f0257a48/3f4eb74a?q=75&fm=jpg&s=15087518f9f4fccf7b7f6f1e73330099') no-repeat center center;
+    margin-bottom: 20px;
+}
+
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 55px;
+ 
+    background-color: rgba(238, 238, 238, 0.9);
+    padding: 10px;
+}
+.jumbotron h1{
+    font-size: 35px;
+}
+.jumbotron p{
+    font-size: 17px;
+}

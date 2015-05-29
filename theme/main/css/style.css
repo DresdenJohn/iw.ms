@@ -1,0 +1,11 @@
+﻿
+/* Lets start with some Bootstrap overrides */
+
+.nocurves{
+    border-radius: 0 !important;
+}
+
+.addBorder{
+    border: 2px solid black;
+
+}
